@@ -1,0 +1,27 @@
+body{
+    background-image: url('https://images.unsplash.com/photo-1570279180431-d8ea336f14f7?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDU0fEd0ckJTY3YxYjVNfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60');
+    
+}
+
+div{
+    height:40px;
+    width:100px;
+    margin: 20% auto;
+    color: aliceblue;
+    padding: 15px 40px;
+    border: 5px solid brown;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Dancing Script';
+    
+}
+
+div:hover{
+    /* background-color: brown; */
+    border: 5px solid black;
+    color:black;
+    box-shadow: 10px 5px 5px #d4a373;
+    background-image: url('https://images.unsplash.com/photo-1606579215702-4dfbd54096c8?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDk3fEd0ckJTY3YxYjVNfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60');
+    transition-duration: 2s;
+    margin-top: 290px;
+}
